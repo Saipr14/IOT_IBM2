@@ -1,9 +1,26 @@
 # IOT_IBM2
 ###  IOT NOISE POLLUTION DETECTION AND ANALYSIS ###
-# Arduino uno rev3
-# ky-037 sound sensor 
-# ESP8266 WIFI MODEM
-WEBSITE PROJECTION OF LIVE SAMPLE DATA. 
 
-# SIMULATION (IN FRITZING) 
-# IDE - AURDINO IDE
+COMPONENTS USED :
+# Arduino uno rev3 (Hardware) 
+# ky-037 sound sensor (Hardware)
+# ESP8266 WIFI MODEM (Hardware)
+# IDE - AURDINO IDE (Software) .
+
+TO CONNECT THE COMPONENTS:
+# Jumper wires (male to male and female to male) 
+# Arduino to laptop/desktop connecting wire (Name : type A to type B) 
+# Breadboard (nessacary only if Indicating the values with LED's) .
+
+
+WEBSITE PROJECTION OF LIVE SAMPLE DATA :
+# HTML
+# CSS
+# JAVASCRIPT .
+
+Simulation platform used :
+# SIMULATION (IN FRITZING) .
+
+
+Server/Database connection :
+# No enough suffecient data to proceed these thinks now, but will be try to complete them before deadline closes (for whole project) .
