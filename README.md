@@ -14,13 +14,18 @@ TO CONNECT THE COMPONENTS:
 
 
 WEBSITE PROJECTION OF LIVE SAMPLE DATA :
-# HTML
-# CSS
-# JAVASCRIPT .
+HTML
+CSS
+JAVASCRIPT .
 
 Simulation platform used :
-# SIMULATION (IN FRITZING) .
+SIMULATION (IN FRITZING) .
 
 
 Server/Database connection :
-# No enough suffecient data to proceed these thinks now, but will be try to complete them before deadline closes (for whole project) .
+# vercel postgres
+
+Description :
+    The project's main outlay is reading the noise around the area and if it is higher than humans bearable limit, then it should indicate as danger. 
+
+  Then the data must be shown in a interface(website) that we named as Noise'Ometer. 
